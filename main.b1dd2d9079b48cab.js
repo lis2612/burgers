@@ -10688,7 +10688,7 @@
                 [1, "header"],
                 [1, "container"],
                 [1, "logo"],
-                ["src", "./assets/img/Logo.png", "alt", "logo"],
+                ["src", "assets/img/Logo.png", "alt", "logo"],
                 [1, "menu"],
                 [1, "menu-list"],
                 [1, "menu-item"],
@@ -10712,7 +10712,7 @@
                 ["id", "main-action-button", 1, "button", 3, "click"],
                 [
                   "src",
-                  "./assets/img/main_burger.png",
+                  "assets/img/main_burger.png",
                   "alt",
                   "Big burger",
                   1,
@@ -10725,7 +10725,7 @@
                 [1, "why-item"],
                 [
                   "src",
-                  "./assets/img/burger.png",
+                  "assets/img/burger.png",
                   "alt",
                   "burger",
                   1,
@@ -10735,7 +10735,7 @@
                 [1, "why-item-text"],
                 [
                   "src",
-                  "./assets/img/meat.png",
+                  "assets/img/meat.png",
                   "alt",
                   "meat",
                   1,
@@ -10743,7 +10743,7 @@
                 ],
                 [
                   "src",
-                  "./assets/img/food-truck.png",
+                  "assets/img/food-truck.png",
                   "alt",
                   "truck",
                   1,
@@ -10759,7 +10759,7 @@
                 [1, "order-title", "common-title"],
                 [
                   "src",
-                  "./assets/img/order-image.png",
+                  "assets/img/order-image.png",
                   "alt",
                   "burger in a box",
                   1,
